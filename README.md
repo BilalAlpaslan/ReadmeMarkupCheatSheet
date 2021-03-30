@@ -51,6 +51,11 @@ var specificLanguage_code = "python"
          
 <hr>
 
+gifs
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+     Markup: ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
 [Go To TOP](#UP)
@@ -58,3 +63,4 @@ var specificLanguage_code = "python"
 
     Markup :[text goes here](#section_name)
             section_title<a name="section_name"></a>   
+

@@ -1,5 +1,5 @@
 # githubReadmeMark 
-<a name="TOP"></a>
+<a name="UP"></a>
 [Go To Bottom](#BOTTOM)
 
 | Property | Type | Null | Description |
@@ -51,7 +51,7 @@ var specificLanguage_code = "python"
 
 
 
-[Go To TOP](#TOP)
+[Go To TOP](#UP)
 <a name="BOTTOM"></a>
 
     Markup :[text goes here](#section_name)

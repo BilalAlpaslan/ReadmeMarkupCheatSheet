@@ -52,10 +52,15 @@ var specificLanguage_code = "python"
 <hr>
 
 gifs
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
      Markup: ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+     
+     
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
+    Markup: <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 
 [Go To TOP](#UP)
